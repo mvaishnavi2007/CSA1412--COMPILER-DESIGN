@@ -1,0 +1,18 @@
+
+1:#include <stdio.h>
+
+2:int main()
+
+3:{
+
+4:int a = 10;
+
+5:int b = 20;
+
+6:int sum = a + b;
+
+7:printf("Sum = %d", sum);
+
+8:return 0;
+
+9:}
